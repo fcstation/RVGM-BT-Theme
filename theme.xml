@@ -83,8 +83,8 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
 	<include lang="ru">./_art/language/russian.xml</include>			<!-- ru_RU / Russe -->
 	<include lang="sv">./_art/language/swede.xml</include>				<!-- sv_SE / Suédois -->
 	<include lang="tr">./_art/language/turkish.xml</include>			<!-- Turc -->
-	<include lang="zh">./_art/language/chineese.xml</include>			<!-- zh_CN / Chinois -->
-	<!-- <include lang="zh">./_art/language/chineese.xml</include>		zh_TW / Chinois -> Taiwan -->
+	<include lang="zh">./_art/language/tw.xml</include>			<!-- zh_TW / Taiwan -->
+	<!-- <include lang="zh">./_art/language/chineese.xml</include>		zh_CN / Chinois -> China -->
 	
 	<!-- TRAD SYSTEM -->
 	<include>./_art/language/${langue}/${system.theme}.xml</include>
