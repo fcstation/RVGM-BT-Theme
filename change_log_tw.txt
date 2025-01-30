@@ -1,0 +1,8 @@
+Here is what I have done...
+
+Fork from Darknior / RVGM-BT-Theme master
+Create new branch "tw"
+Add this file /change_log_tw.txt
+Add /_art/language/tw.xml
+Modify /theme.xml language session zh from chineese.xml to tw.xml
+Update all translations of /_art/language/ from ./en to ./tw (English to Traditional Chinese)
