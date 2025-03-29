@@ -6,3 +6,8 @@ Add this file /change_log_tw.txt
 Add /_art/language/tw.xml
 Modify /theme.xml language session zh from chineese.xml to tw.xml
 Update all translations of /_art/language/ from ./en to ./tw (English to Traditional Chinese)
+
+20250329
+Create /_art/language/tw/ gb.bible.xml gbc.bible.xml megadrive.bible.xml nes.bible.xml pce.bible.xml
+Upload directory: gb.bible gbc.bible megadrive.bible nes.bible pce.bible
+
